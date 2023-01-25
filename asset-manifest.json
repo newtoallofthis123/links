@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/newtoallofthis123.github.io/links/static/css/main.c9204f30.css",
-    "main.js": "/newtoallofthis123.github.io/links/static/js/main.daaefb33.js",
-    "static/media/profile-pic-full.png": "/newtoallofthis123.github.io/links/static/media/profile-pic-full.2f770d9100b760e7d282.png",
-    "index.html": "/newtoallofthis123.github.io/links/index.html",
-    "main.c9204f30.css.map": "/newtoallofthis123.github.io/links/static/css/main.c9204f30.css.map",
-    "main.daaefb33.js.map": "/newtoallofthis123.github.io/links/static/js/main.daaefb33.js.map"
+    "main.css": "/links/static/css/main.c9204f30.css",
+    "main.js": "/links/static/js/main.f1c14fda.js",
+    "static/media/profile-pic-full.png": "/links/static/media/profile-pic-full.2f770d9100b760e7d282.png",
+    "index.html": "/links/index.html",
+    "main.c9204f30.css.map": "/links/static/css/main.c9204f30.css.map",
+    "main.f1c14fda.js.map": "/links/static/js/main.f1c14fda.js.map"
   },
   "entrypoints": [
     "static/css/main.c9204f30.css",
-    "static/js/main.daaefb33.js"
+    "static/js/main.f1c14fda.js"
   ]
 }
