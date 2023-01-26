@@ -1,8 +1,9 @@
 {
   "homepage": "https://links.noobscience.rocks",
   "name": "links",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "private": true,
+  "author": "NoobScience",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

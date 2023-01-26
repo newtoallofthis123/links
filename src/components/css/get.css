@@ -1,0 +1,25 @@
+.get-div{
+    background-color: white;
+    box-shadow: 6px 9px 48px 10px rgba(0,0,0,0.66);
+    -webkit-box-shadow: 6px 9px 48px 10px rgba(0,0,0,0.66);
+    -moz-box-shadow: 6px 9px 48px 10px rgba(0,0,0,0.66);
+    border-radius: 24px;
+    padding: 5%;
+    margin: 10%;
+}
+h1{
+    font-size: 3rem;
+}
+a{
+    font-family: 'Fira Code', "Courier New", Courier, monospace;
+    font-size: 2rem;
+}
+
+@media screen and (max-width: 698px) {
+    h1{
+        font-size: 1rem;
+    }
+    a{
+        font-size: 1.2rem;
+    }
+}
