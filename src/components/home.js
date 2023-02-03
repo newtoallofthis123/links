@@ -8,7 +8,7 @@ const Home = () => {
         <div>
             <div className="main-card">
                 <div>
-                    <button className="button"><Link to={"/get/github"} className="btn-link"><i className="bi bi-github"></i> GitHub</Link></button>
+                    <button className="button"><Link to="/get/github" className="btn-link"><i className="bi bi-github"></i> GitHub</Link></button>
                 </div>
                 <div>
                     <button className="button"><Link to="/get/twitter" className="btn-link"><i className="bi bi-twitter"></i> Twitter</Link></button>
@@ -20,7 +20,7 @@ const Home = () => {
                     <button className="button"><Link to="/get/web" className="btn-link"><i className="bi bi-globe"></i> Website</Link></button>
                 </div>
                 <div>
-                    <button className="button"><Link to="/get/blog" className="btn-link"><i className="bi bi-hashnode"></i><svg role="img" viewBox="0 0 24 24" width="24px" xmlns="http://www.w3.org/2000/svg"><title>Hashnode</title><path d="M22.351 8.019l-6.37-6.37a5.63 5.63 0 0 0-7.962 0l-6.37 6.37a5.63 5.63 0 0 0 0 7.962l6.37 6.37a5.63 5.63 0 0 0 7.962 0l6.37-6.37a5.63 5.63 0 0 0 0-7.962zM12 15.953a3.953 3.953 0 1 1 0-7.906 3.953 3.953 0 0 1 0 7.906z" fill="#000"></path></svg> My Blog</Link></button>
+                    <button className="button"><Link to="/get/blog" className="btn-link"><svg role="img" viewBox="0 0 24 24" width="24px" xmlns="http://www.w3.org/2000/svg"><title>Hashnode</title><path d="M22.351 8.019l-6.37-6.37a5.63 5.63 0 0 0-7.962 0l-6.37 6.37a5.63 5.63 0 0 0 0 7.962l6.37 6.37a5.63 5.63 0 0 0 7.962 0l6.37-6.37a5.63 5.63 0 0 0 0-7.962zM12 15.953a3.953 3.953 0 1 1 0-7.906 3.953 3.953 0 0 1 0 7.906z" fill="#000"></path></svg> My Blog</Link></button>
                 </div>
                 <div>
                     <button className="button"><Link to="/get/ig" className="btn-link"><i className="bi bi-instagram"></i> Instagram</Link></button>
